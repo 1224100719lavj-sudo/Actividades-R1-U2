@@ -8,8 +8,6 @@
 
 # 🟦 INICIO — UNIDAD 2
 
-Bienvenido a las actividades correspondientes a la **Unidad 2**, donde se desarrollan ejercicios y conceptos fundamentales de la materia.  
-A continuación se incluyen los materiales en formato PDF.
 
 ---
 
