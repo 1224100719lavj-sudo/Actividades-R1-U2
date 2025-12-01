@@ -21,13 +21,13 @@
 
 ## 🛠️ Ejercicios Prácticos (Estructuras de Datos) 💻
 
-Aquí encontrarás la implementación en Java de las estructuras de datos fundamentales de la unidad, junto con un video explicativo para cada ejercicio.
+
 
 ---
 
 ### 🔗 Listas
 
-| Nº | Nombre del Ejercicio | Archivo Fuente (`.java`) | Video Explicativo (`.mp4`) |
+| Nº | Nombre del Ejercicio | Archivo Fuente ) | Video Explicativo  |
 |:--:|:---------------------|:------------------------:|:--------------------------:|
 | 1 | ArchivoPalabras2 | [🔗 ArchivoPalabras2.java](./codigos/listas/ArchivoPalabras2.java) | [▶️ Video](./codigos/ArchivoPalabras2.mp4) |
 | 2 | CircularPolinomio | [🔗 CircularPolinomio.java](./codigos/listas/CircularPolinomio.java) | [▶️ Video](./codigos/CircularPolinomio.mp4) |
